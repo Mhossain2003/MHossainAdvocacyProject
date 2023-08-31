@@ -11,6 +11,6 @@ OUTCOMES:
   *Created features to the website that allows it to be interactable and functional (Toggle Dark Mode, Add your name to the website, clickable navigation bar that takes you to the designated location)
 
 Link to Replit URL for website:
-https://replit.com/@MohammadH2003/MHossainAdvocacyProject 
+https://replit.com/@MohammadH2003/MHossainAdvocacyProject  
 
   

@@ -5,7 +5,7 @@ My topic for this wireframe was Islamophobia. The website gives information abou
   *This was made based on Codepaths Web101 - Intro to Web Development <br />
   *Each section was created on my own based on the units and lectures provided by Codepath during spring 2023  <br />
   *The project consists of HTML, CSS, and JavaScript <br />
-OUTCOMES: <br />
+<br />OUTCOMES: <br />
   *Gained experience in HTML, CSS, and JavaScript<br />
   *Made a website that portrays an issue our society faces, including myself<br />
   *Created features to the website that allow it to be interactable and functional (Toggle Dark Mode, Add your name to the website, clickable navigation bar that takes you to the designated location)<br />
